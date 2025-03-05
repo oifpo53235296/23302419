@@ -1,2 +1,3 @@
+out = new BufferedWriter(new FileWriter(”filename”, true));
 props.load(fs);
 print("hello world")
