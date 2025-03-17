@@ -1,3 +1,4 @@
+while (rs.next())
 try {
 test.init();
 // error processing code
