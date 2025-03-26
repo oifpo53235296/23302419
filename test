@@ -1,3 +1,4 @@
+String url = props.getProperty("db.url");
 ps.close();
 Properties props = new Properties();
 ResultSet rs = ps.executeQuery();
